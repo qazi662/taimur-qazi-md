@@ -80,17 +80,18 @@
 
 ### 📊 GitHub Stats
 
+
+
+
+  <img src="https://github-profile-trophy.vercel.app/?username=qazi662&theme=algolia&no-bg=true&margin-w=15" alt="GitHub Trophy" />
+</p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qazi662&show_icons=true&locale=en&layout=compact" alt="qazi662" /></p>
+
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=qazi662&show_icons=true&theme=react&hide_border=true" alt="Your GitHub Stats" />
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=qazi662&show_icons=true&locale=en" alt="qazi662" /></p>
-
-<p >
-  <img src="https://github-profile-trophy.vercel.app/?username=qazi662&theme=algolia&no-bg=true&margin-w=15" alt="GitHub Trophy" />
-</p>
-
----
 
 ### 🤝 Connect with me
 
